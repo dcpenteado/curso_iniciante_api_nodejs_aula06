@@ -1,2 +1,2 @@
-# curso_iniciante_api_nodejs_aula06
-Curso Iniciante de API Nodejs + Express + Mongo - Aula 06
+# Nodejs API Básico - Aula 6 - Async Await
+Refatorando o código utilizando async e await para prevenir callback hell futuro.
